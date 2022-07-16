@@ -17,3 +17,15 @@ Adicionar receitas
 Pagina de cadastro
 Página de login
 Lista de receitas
+
+
+🏁 Rodando o projeto
+# Clone este repositório
+$ git clone 
+# Acesse a pasta do projeto no terminal
+$ cd ./pokedex
+# Instale as dependências
+$ npm install
+# Para iniciar o projeto
+$ npm run start
+# O servidor inciará na porta:3000 - acesse <http://localhost:3000>
