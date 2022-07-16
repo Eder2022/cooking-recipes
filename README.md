@@ -21,7 +21,7 @@ Lista de receitas
 
 🏁 Rodando o projeto
 # Clone este repositório
-$ git clone 
+$ git clone https://github.com/Eder2022/cooking-recipes.git
 # Acesse a pasta do projeto no terminal
 $ cd ./pokedex
 # Instale as dependências
